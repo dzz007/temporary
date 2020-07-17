@@ -49,13 +49,15 @@
         "filename": "FileName1.csv",
         "lastDownloadedOn": "06/12/2020",
         "lastDownloadedBy": "Richard Smith",
-        "fileID": "123456"
+        "fileID": "123456",
+        "downloadLink": "https://google.com/"
       },
       {
         "filename": "FileName2.csv",
         "lastDownloadedOn": "06/19/2020",
         "lastDownloadedBy": "Richard Smith",
-        "fileID": "654321"
+        "fileID": "654321",
+        "downloadLink": "https://google.com/"
       }
     ]
   }
