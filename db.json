@@ -39,5 +39,24 @@
       "update": "-NA-",
       "engine": "ABP"
     }
-  ]
+  ],
+  "jobDetails": {
+    "pyear": "2020",
+    "startWeek": "12",
+    "endWeek": "14",
+    "files": [
+      {
+        "filename": "FileName1.csv",
+        "lastDownloadedOn": "06/12/2020",
+        "lastDownloadedBy": "Richard Smith",
+        "fileID": "123456"
+      },
+      {
+        "filename": "FileName2.csv",
+        "lastDownloadedOn": "06/19/2020",
+        "lastDownloadedBy": "Richard Smith",
+        "fileID": "654321"
+      }
+    ]
+  }
 }
