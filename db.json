@@ -1,7 +1,7 @@
 {
   "searchJobs": [
     {
-      "scheduledDateTime": "04/09/2020 11:06:32 AM",
+      "scheduledTime": "04/09/2020 11:06:32 AM",
       "sdNumber": "88999",
       "region": "9088",
       "companyCodes": "AAA",
@@ -14,7 +14,7 @@
       "engine": "ABP"
     },
     {
-      "scheduledDateTime": "04/10/2020 12:03:12 PM",
+      "scheduledTime": "04/10/2020 12:03:12 PM",
       "sdNumber": "90001",
       "region": "9088",
       "companyCodes": "BBB",
@@ -27,7 +27,7 @@
       "engine": "ABA"
     },
     {
-      "scheduledDateTime": "04/09/2020 11:06:32 AM",
+      "scheduledTime": "04/09/2020 11:06:32 AM",
       "sdNumber": "88999",
       "region": "30",
       "companyCodes": "CCC",
