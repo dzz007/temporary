@@ -60,5 +60,9 @@
         "downloadLink": "https://google.com/"
       }
     ]
+  },
+  "searchJobs-err": {
+    "status": -1, 
+    "error": "Bad things happened"
   }
 }
